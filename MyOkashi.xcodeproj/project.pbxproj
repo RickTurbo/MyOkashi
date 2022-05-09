@@ -12,6 +12,7 @@
 		ECB45A7A28277C2D00151940 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECB45A7928277C2D00151940 /* Assets.xcassets */; };
 		ECB45A7D28277C2D00151940 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECB45A7C28277C2D00151940 /* Preview Assets.xcassets */; };
 		ECB45A8428277CAD00151940 /* OkashiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB45A8328277CAD00151940 /* OkashiData.swift */; };
+		ECEE71212829396200231249 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECEE71202829396200231249 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ECB45A7C28277C2D00151940 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ECB45A8328277CAD00151940 /* OkashiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OkashiData.swift; sourceTree = "<group>"; };
 		ECEE711F28291C7000231249 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		ECEE71202829396200231249 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				ECEE711F28291C7000231249 /* Info.plist */,
 				ECB45A7528277C2400151940 /* MyOkashiApp.swift */,
 				ECB45A7728277C2400151940 /* ContentView.swift */,
+				ECEE71202829396200231249 /* SafariView.swift */,
 				ECB45A8328277CAD00151940 /* OkashiData.swift */,
 				ECB45A7928277C2D00151940 /* Assets.xcassets */,
 				ECB45A7B28277C2D00151940 /* Preview Content */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECEE71212829396200231249 /* SafariView.swift in Sources */,
 				ECB45A7828277C2400151940 /* ContentView.swift in Sources */,
 				ECB45A8428277CAD00151940 /* OkashiData.swift in Sources */,
 				ECB45A7628277C2400151940 /* MyOkashiApp.swift in Sources */,
